@@ -1,2 +1,2 @@
 # python_projects
-Some examples of python scripts written myself
+Some examples of python scripts
